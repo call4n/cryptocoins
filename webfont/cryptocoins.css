@@ -641,6 +641,9 @@
   content: "\E097";
 }
 
+.cc.LITH::before {
+  content: "\E096";
+
 .cc.LSK-alt::before {
   content: "\E098";
 }
